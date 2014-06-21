@@ -1,7 +1,7 @@
 /*
 |
 |------------------------------
-| Dev Colors v1
+| Dev Colors
 | Adam Struve - adamstruve.com
 |------------------------------
 |
@@ -573,4 +573,8 @@
 
 .yellowgreen {
     background-color: yellowgreen;
+}
+
+.rebeccapurple {
+    background-color: rebeccapurple;
 }
